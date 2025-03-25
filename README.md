@@ -20,51 +20,34 @@ Each project is an opportunity to extract meaningful patterns from chaos and bui
 
 ## // EXPERTISE & TECHNOLOGIES
 
-### 『 LANGUAGES & CORE TOOLS 』
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" height="30">
 </div>
 
-### 『 MACHINE LEARNING & AI 』
 <div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FF9A00?style=flat-square&logo=huggingface&logoColor=white" height="30">
 </div>
 
-### 『 DATA ENGINEERING & ANALYSIS 』
 <div align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Dask-FDA061?style=flat-square&logo=dask&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" height="30">
 </div>
 
-### 『 VISUALIZATION & REPORTING 』
 <div align="center">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" height="30">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" height="30">
 </div>
 
-### 『 CLOUD & DEPLOYMENT 』
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="30">
 </div>
 
 <div align="center">
