@@ -20,7 +20,7 @@ Each project is an opportunity to extract meaningful patterns from chaos and bui
 
 ## // EXPERTISE & TECHNOLOGIES
 
-### ♦ Programming & ML Frameworks
+### ♦ Programming & Frameworks
 <div align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30">
@@ -59,6 +59,9 @@ Each project is an opportunity to extract meaningful patterns from chaos and bui
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="30">
   </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/MS%20SQL-CC2927?style=flat-square&logo=mssqlserver-white&logoColor=white" height="30">
+  </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="30">
   </a>
@@ -78,6 +81,9 @@ Each project is an opportunity to extract meaningful patterns from chaos and bui
   <a href="https://www.kubeflow.org/" target="_blank">
     <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="30">
   </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="30">
+  </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="30">
   </a>
@@ -85,10 +91,10 @@ Each project is an opportunity to extract meaningful patterns from chaos and bui
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="30">
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-web-services&logoColor=white" height="30">
   </a>
   <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" height="30">
+    <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=msazure&logoColor=white" height="30">
   </a>
 </div>
 
@@ -107,13 +113,13 @@ Each project is an opportunity to extract meaningful patterns from chaos and bui
     <img src="https://img.shields.io/badge/Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="30">
   </a>
   <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="30">
+    <img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?style=flat-square&logo=tableau&logoColor=fff" height="30">
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" height="30">
+    <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?style=flat-square&logo=power-bi&logoColor=fff" height="30">
   </a>
    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="30">
   </a>
 </div>
 
