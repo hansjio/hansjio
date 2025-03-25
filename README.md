@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=HANS%20JIO%20ARCA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> </div> <div align="center"> <h2>『 DATA SCIENCE | AI/ML 』</h2> <p>「 CODE • CREATE • CONNECT 」</p> </div> <hr style="border: 2px solid #ff0000;">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=HANS%20JIO%20ARCA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> </div> <div align="center"> <h2>『 DATA SCIENCE | AI/ML 』</h2> <p>「 Exploring the intersection of data, algorithms, and human intelligence 」</p> </div> <hr style="border: 2px solid #ff0000;">
 
 ## // MINDSET
 I build digital experiences that blur the line between art and technology.
