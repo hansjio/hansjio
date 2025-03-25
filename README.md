@@ -102,11 +102,11 @@ A simulation environment for training and evaluating reinforcement learning agen
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hansjio&theme=github_dark" alt="GitHub Contributions">
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hansjio&theme=dark" alt="GitHub Contributions">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5" />
 </div>
 
 ## // CERTIFICATIONS & EDUCATION
