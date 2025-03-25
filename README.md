@@ -68,7 +68,7 @@ A simulation environment for training and evaluating reinforcement learning agen
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5" />
 </div>
 
-## // RESEARCH INTERESTS
+## // TECHNOLOGICAL INTERESTS
 
 - 🔴 **Multimodal Learning**: Integrating vision, language, and structured data for comprehensive AI systems
 - 🔴 **Explainable AI**: Developing interpretable models that provide insights into their decision-making process
