@@ -138,11 +138,11 @@ A simulation environment for training and evaluating reinforcement learning agen
   <a href="https://kaggle.com/yourprofile">
     <img src="https://img.shields.io/badge/KAGGLE-000000?style=for-the-badge&logo=kaggle&logoColor=ff0000" alt="Kaggle" />
   </a>
-  <a href="https://medium.com/@yourprofile">
-    <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=ff0000" alt="Medium" />
+  <a href="#">
+      <img src="https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=ff0000" alt="Fiverr" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" alt="Email" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=ff0000" alt="Upwork" />
   </a>
 </div>
 
