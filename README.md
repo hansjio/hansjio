@@ -38,7 +38,7 @@ Each project is an opportunity to extract meaningful patterns from chaos and bui
     <img src="https://img.shields.io/badge/JAX-005F9E?style=flat-square&logo=google&logoColor=white" height="30">
   </a>
   <a href="https://huggingface.co/transformers/" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=flat-square&logo=huggingface&logoColor=black" height="30">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=flat-square&logo=huggingface&logoColor=white" height="30">
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="30">
