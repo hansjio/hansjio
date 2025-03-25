@@ -102,15 +102,11 @@ A simulation environment for training and evaluating reinforcement learning agen
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hansjio/hansjio/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hansjio/hansjio/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hansjio/hansjio/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hansjio&theme=dark" alt="GitHub Contributions">
 </div>
 
 ## // CERTIFICATIONS & EDUCATION
