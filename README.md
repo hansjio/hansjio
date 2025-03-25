@@ -20,7 +20,7 @@ Each project is an opportunity to extract meaningful patterns from chaos and bui
 
 ## // EXPERTISE & TECHNOLOGIES
 
-### ♦️ Programming & ML Frameworks
+### ♦ Programming & ML Frameworks
 <div align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30">
@@ -51,7 +51,7 @@ Each project is an opportunity to extract meaningful patterns from chaos and bui
   </a>
 </div>
 
-### ♦️ Big Data & Databases
+### ♦ Big Data & Databases
 <div align="center">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="30">
@@ -70,7 +70,7 @@ Each project is an opportunity to extract meaningful patterns from chaos and bui
   </a>
 </div>
 
-### ♦️ MLOps & Deployment
+### ♦ MLOps & Deployment
 <div align="center">
   <a href="https://mlflow.org/" target="_blank">
     <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="30">
@@ -92,7 +92,7 @@ Each project is an opportunity to extract meaningful patterns from chaos and bui
   </a>
 </div>
 
-### ♦️ Visualization & Analysis
+### ♦ Visualization & Analysis
 <div align="center">
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="30">
@@ -111,6 +111,9 @@ Each project is an opportunity to extract meaningful patterns from chaos and bui
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" height="30">
+  </a>
+   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="30">
   </a>
 </div>
 
