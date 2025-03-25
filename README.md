@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=HANS%20JIO%ARCA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> </div> <div align="center"> <h2>『 ENTER THE GARDEN 』</h2> <p>「 CODE • CREATE • CONNECT 」</p> </div> <hr style="border: 2px solid #ff0000;">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=HANS%20JIO%20ARCA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> </div> <div align="center"> <h2>『 ENTER THE GARDEN 』</h2> <p>「 CODE • CREATE • CONNECT 」</p> </div> <hr style="border: 2px solid #ff0000;">
 
 ## // MINDSET
 I build digital experiences that blur the line between art and technology.
@@ -110,5 +110,5 @@ A decentralized marketplace for digital collectibles with a focus on anime-inspi
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=footer&text=DATA%SCIENCE%%|%%AI/ML&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=footer&text=DATA%20SCIENCE%25%20%7C%20AI%2FML&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </div>
