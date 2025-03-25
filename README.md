@@ -1,5 +1,6 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=HANS%20JIO&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> </div> <div align="center"> <h2>『 ENTER THE GARDEN 』</h2> <p>「 CODE • CREATE • CONNECT 」</p> </div> <hr style="border: 2px solid #ff0000;">
-// MINDSET
+
+## // MINDSET
 I build digital experiences that blur the line between art and technology.
 Each project is a step toward creating something meaningful in both physical and digital realms.
 
