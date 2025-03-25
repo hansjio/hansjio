@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=HANS%20JIO%20ARCA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> </div> 
 <div align="center"> 
-  <h2>『 DATA SCIENTIST | AI RESEARCHER | ML ENGINEER 』</h2> 
+  <h2>『 DATA SCIENTIST | AI / ML ENGINEER 』</h2> 
   <p>「 Transforming data into intelligence, algorithms into insights, code into impact 」</p> 
 </div> 
 <hr style="border: 2px solid #ff0000;">
@@ -142,7 +142,7 @@ A simulation environment for training and evaluating reinforcement learning agen
       <img src="https://img.shields.io/badge/Fiverr-000000?style=for-the-badge&logo=fiverr&logoColor=ff0000" alt="Fiverr" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Upwork-000000?style=for-the-badgelogo=upwork&logoColor=ff0000" alt="Upwork" />
+    <img src="https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=ff0000" alt="Upwork" />
   </a>
 </div>
 
