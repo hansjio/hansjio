@@ -20,6 +20,7 @@ Each project is an opportunity to extract meaningful patterns from chaos and bui
 
 ## // EXPERTISE & TECHNOLOGIES
 
+### ♦️ Programming & ML Frameworks
 <div align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30">
@@ -27,14 +28,17 @@ Each project is an opportunity to extract meaningful patterns from chaos and bui
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" height="30">
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="30">
-  </a>
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="30">
   </a>
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="30">
+  </a>
+  <a href="https://jax.readthedocs.io/" target="_blank">
+    <img src="https://img.shields.io/badge/JAX-005F9E?style=flat-square&logo=google&logoColor=white" height="30">
+  </a>
+  <a href="https://huggingface.co/transformers/" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=flat-square&logo=huggingface&logoColor=black" height="30">
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="30">
@@ -45,20 +49,34 @@ Each project is an opportunity to extract meaningful patterns from chaos and bui
   <a href="https://numpy.org/" target="_blank">
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="30">
   </a>
+</div>
+
+### ♦️ Big Data & Databases
+<div align="center">
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="30">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="30">
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="30">
+  </a>
+  <a href="https://cloud.google.com/bigquery/" target="_blank">
+    <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="30">
+  </a>
   <a href="https://spark.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" height="30">
   </a>
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="30">
+</div>
+
+### ♦️ MLOps & Deployment
+<div align="center">
+  <a href="https://mlflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="30">
   </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" height="30">
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" height="30">
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" height="30">
+  <a href="https://www.kubeflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="30">
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="30">
@@ -66,7 +84,36 @@ Each project is an opportunity to extract meaningful patterns from chaos and bui
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="30">
   </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" height="30">
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" height="30">
+  </a>
 </div>
+
+### ♦️ Visualization & Analysis
+<div align="center">
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="30">
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Seaborn-1F77B4?style=flat-square&logo=python&logoColor=white" height="30">
+  </a>
+  <a href="https://plotly.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="30">
+  </a>
+  <a href="https://dash.plotly.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="30">
+  </a>
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="30">
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" height="30">
+  </a>
+</div>
+
 
 
 <div align="center">
