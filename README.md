@@ -14,12 +14,6 @@ Each project is a step toward creating something meaningful in both physical and
 </div>
 
 ## // SKILLS & TECHNOLOGIES
-FRONTEND DEVELOPMENT    [██████████] Master
-BACKEND DEVELOPMENT     [████████░░] Advanced
-UI/UX DESIGN            [███████░░░] Proficient
-BLOCKCHAIN/WEB3         [██████░░░░] Intermediate
-MOBILE DEVELOPMENT      [█████░░░░░] Intermediate
-DEVOPS                  [████░░░░░░] Learning
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-ff0000?style=flat-square&logo=javascript&logoColor=white" />
