@@ -139,10 +139,10 @@ A simulation environment for training and evaluating reinforcement learning agen
     <img src="https://img.shields.io/badge/KAGGLE-000000?style=for-the-badge&logo=kaggle&logoColor=ff0000" alt="Kaggle" />
   </a>
   <a href="#">
-      <img src="https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=ff0000" alt="Fiverr" />
+      <img src="https://img.shields.io/badge/Fiverr-000000?style=for-the-badge&logo=fiverr&logoColor=ff0000" alt="Fiverr" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=ff0000" alt="Upwork" />
+    <img src="https://img.shields.io/badge/Upwork-000000?style=for-the-badgelogo=upwork&logoColor=ff0000" alt="Upwork" />
   </a>
 </div>
 
