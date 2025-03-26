@@ -173,7 +173,7 @@ A simulation environment for training and evaluating reinforcement learning agen
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=hansjio&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&hide_border=true" alt="GitHub Stats" width="400" />
+        <p></p>
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansjio&theme=dark&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&hide_border=true" alt="GitHub Streak" width="400" />
@@ -184,7 +184,9 @@ A simulation environment for training and evaluating reinforcement learning agen
 
 ## // CONTRIBUTIONS
 
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hansjio&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&area_color=ff0000&hide_border=true" alt="Contribution Graph" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5" />
