@@ -10,12 +10,6 @@
   </div>
 
   <p align="center">
-    <a href="https://github.com/hansjio"><img src="https://img.shields.io/github/followers/hansjio?label=Followers&style=social" alt="GitHub Followers"></a>
-    <img src="https://komarev.com/ghpvc/?username=hansjio&color=ff0000&style=flat-square&label=Profile+Views" alt="Profile Views">
-    <a href="https://wakatime.com/@hansjio"><img src="https://wakatime.com/badge/user/hansjio.svg" alt="Total time coded"></a>
-  </p>
-
-  <p align="center">
     <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=ff0000" alt="Twitter"></a>
     <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff0000" alt="LinkedIn"></a>
     <a href="https://kaggle.com/yourprofile"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=ff0000" alt="Kaggle"></a>
