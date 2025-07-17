@@ -75,8 +75,8 @@
     </tr>
     <tr>
       <td width="20%" align="right" valign="top">
-        <h3>Aug 2023 – May 2025</h3>
-        <p>1 year 9 months</p>
+        <h3>Aug 2023 – May 2024</h3>
+        <p>9 months/p>
       </td>
       <td width="5%" align="center" valign="top">
         <div style="height:100%; width:2px; background-color:#ff0000;"></div>
