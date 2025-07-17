@@ -40,76 +40,25 @@
 
 <!-- About Me Section -->
 <details open>
-  <summary><h2>🧠 // MINDSET</h2></summary>
-  <table>
-    <tr>
-      <td>
-        <p align="center">
-          <img align="center" alt="AI Brain Animation" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM0OTI5ZDk3MzIwMzM1ZDRlNzg0YzQ5ZDM1YzRkMzEzNDRlMDk0YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0Iy67eveh48xHQFa/giphy.gif" width="300" height="200" style="border-radius: 10px;" />
-        </p>
-      </td>
-      <td>
-        <p>
-          I navigate the complex intersection of data science, artificial intelligence, and human understanding. Each project is an opportunity to extract meaningful patterns from chaos and build solutions that augment human capabilities.
-        </p>
-        <ul>
-          <li>🔴 <b>EXPLORING</b> complex datasets to uncover hidden insights and patterns</li>
-          <li>🔴 <b>DEVELOPING</b> machine learning models that solve real-world problems</li>
-          <li>🔴 <b>RESEARCHING</b> cutting-edge AI techniques to push technological boundaries</li>
-          <li>🔴 <b>BRIDGING</b> the gap between theoretical algorithms and practical applications</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <summary><h2>👋 // ABOUT ME</h2></summary>
+  <p>Hi! I'm Hans Jio Arca — a Computer Science student at Adamson University majoring in Data Science. I’m passionate about developing data-driven applications and solving real-world problems using machine learning and web technologies. I'm currently building tools that make local governance and optimization more accessible through tech.</p>
 </details>
 
 <br>
 
 <!-- Current Work Section -->
 <details open>
-  <summary><h2>🔥 // CURRENTLY WORKING ON</h2></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td width="60%">
-          <h3 align="center">Advanced Transformer Architecture for Time Series</h3>
-          <div align="center">
-            <a href="https://github.com/hansjio/transformer-timeseries">
-              <img src="https://raw.githubusercontent.com/hansjio/hansjio/main/assets/current-project.png" width="100%" alt="Current Project"/>
-            </a>
-            <p>
-              Developing a novel transformer architecture specifically designed for multivariate time series forecasting with improved attention mechanisms for temporal data.
-            </p>
-            <p>
-              <img src="https://progress-bar.dev/75?title=Progress&width=200&color=ff0000" alt="Progress 75%">
-            </p>
-            <a href="https://github.com/hansjio/transformer-timeseries">
-              <img src="https://img.shields.io/badge/View%20Project-ff0000?style=flat-square" alt="View Project"/>
-            </a>
-          </div>
-        </td>
-        <td width="40%">
-          <div align="center">
-            <h3>Tech Stack</h3>
-            <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-            <img src="https://img.shields.io/badge/JAX-0A5F69?style=for-the-badge&logo=google&logoColor=white" alt="JAX">
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-            <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-            <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
-            <h3>Key Features</h3>
-            <ul align="left">
-              <li>Multi-head attention with temporal bias</li>
-              <li>Adaptive learning rate scheduling</li>
-              <li>Uncertainty quantification</li>
-              <li>Interpretability modules</li>
-              <li>Distributed training pipeline</li>
-            </ul>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </div>
+  <summary><h2>💼 // EXPERIENCE</h2></summary>
+  <ul>
+    <li><strong>Treasurer</strong> – Adamson Computer Science Society (Aug 2024 – May 2025)<br>
+      • Managed budgets, tracked income/expenses, and automated financial tracking using spreadsheets.<br>
+      • Forecasted event costs and merchandise revenue to optimize budgets.
+    </li>
+    <li><strong>Junior Officer</strong> – Adamson Computer Science Society (Aug 2023 – May 2025)<br>
+      • Assisted executive officers and helped manage events and internal communications.<br>
+      • Acted as liaison between students and the organization.
+    </li>
+  </ul>
 </details>
 
 <br>
@@ -245,94 +194,15 @@
 
 <!-- Featured Projects Section -->
 <details open>
-  <summary><h2>🚀 // FEATURED DATA SCIENCE & AI PROJECTS</h2></summary>
-  <div align="center">
-    <table border="0" align="center">
-      <tr>
-        <td width="50%" align="center">
-          <div style="border-radius:10px; overflow:hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-            <img src="https://raw.githubusercontent.com/hansjio/hansjio/main/assets/neural-forecaster.png" width="100%" alt="Neural Forecaster" style="border-radius:10px 10px 0 0;"/>
-            <div style="padding:15px; background-color:#1A1B27;">
-              <h3 style="margin:0; color:#ff0000;">『 NEURAL FORECASTER 』</h3>
-              <p>A time series forecasting framework combining transformer architectures with traditional statistical methods to predict complex patterns in financial and environmental data.</p>
-              <div>
-                <a href="https://github.com/hansjio/neural-forecaster">
-                  <img src="https://img.shields.io/badge/View%20Project-ff0000?style=flat-square" alt="View Project"/>
-                </a>
-                <img src="https://img.shields.io/badge/deep--learning-black?style=flat-square" alt="deep-learning"/>
-                <img src="https://img.shields.io/badge/time--series-black?style=flat-square" alt="time-series"/>
-                <img src="https://img.shields.io/badge/transformers-black?style=flat-square" alt="transformers"/>
-                <img src="https://img.shields.io/badge/pytorch-black?style=flat-square" alt="pytorch"/>
-                <img src="https://img.shields.io/badge/finance-black?style=flat-square" alt="finance"/>
-              </div>
-            </div>
-          </div>
-        </td>
-        <td width="50%" align="center">
-          <div style="border-radius:10px; overflow:hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-            <img src="https://raw.githubusercontent.com/hansjio/hansjio/main/assets/knowledge-graph.png" width="100%" alt="Semantic Knowledge Graph" style="border-radius:10px 10px 0 0;"/>
-            <div style="padding:15px; background-color:#1A1B27;">
-              <h3 style="margin:0; color:#ff0000;">『 SEMANTIC KNOWLEDGE GRAPH 』</h3>
-              <p>An intelligent knowledge management system that automatically extracts relationships from scientific papers and builds a navigable graph database of research findings.</p>
-              <div>
-                <a href="https://github.com/hansjio/semantic-knowledge">
-                  <img src="https://img.shields.io/badge/View%20Project-ff0000?style=flat-square" alt="View Project"/>
-                </a>
-                <img src="https://img.shields.io/badge/nlp-black?style=flat-square" alt="nlp"/>
-                <img src="https://img.shields.io/badge/knowledge--graphs-black?style=flat-square" alt="knowledge-graphs"/>
-                <img src="https://img.shields.io/badge/neo4j-black?style=flat-square" alt="neo4j"/>
-                <img src="https://img.shields.io/badge/information--retrieval-black?style=flat-square" alt="information-retrieval"/>
-                <img src="https://img.shields.io/badge/research--tools-black?style=flat-square" alt="research-tools"/>
-              </div>
-            </div>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td width="50%" align="center">
-          <div style="border-radius:10px; overflow:hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-            <img src="https://raw.githubusercontent.com/hansjio/hansjio/main/assets/vision-system.png" width="100%" alt="Vision Intelligence System" style="border-radius:10px 10px 0 0;"/>
-            <div style="padding:15px; background-color:#1A1B27;">
-              <h3 style="margin:0; color:#ff0000;">『 VISION INTELLIGENCE SYSTEM 』</h3>
-              <p>Computer vision pipeline for real-time object detection, tracking, and anomaly detection in manufacturing environments, reducing defects by 37% in production.</p>
-              <div>
-                <a href="https://github.com/hansjio/vision-intelligence">
-                  <img src="https://img.shields.io/badge/View%20Project-ff0000?style=flat-square" alt="View Project"/>
-                </a>
-                <img src="https://img.shields.io/badge/computer--vision-black?style=flat-square" alt="computer-vision"/>
-                <img src="https://img.shields.io/badge/anomaly--detection-black?style=flat-square" alt="anomaly-detection"/>
-                <img src="https://img.shields.io/badge/real--time--processing-black?style=flat-square" alt="real-time-processing"/>
-                <img src="https://img.shields.io/badge/industrial--ai-black?style=flat-square" alt="industrial-ai"/>
-                <img src="https://img.shields.io/badge/yolo-black?style=flat-square" alt="yolo"/>
-              </div>
-            </div>
-          </div>
-        </td>
-        <td width="50%" align="center">
-          <div style="border-radius:10px; overflow:hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-            <img src="https://raw.githubusercontent.com/hansjio/hansjio/main/assets/rl-simulator.png" width="100%" alt="Reinforcement Learning Simulator" style="border-radius:10px 10px 0 0;"/>
-            <div style="padding:15px; background-color:#1A1B27;">
-              <h3 style="margin:0; color:#ff0000;">『 REINFORCEMENT LEARNING SIMULATOR 』</h3>
-              <p>A simulation environment for training and evaluating reinforcement learning agents on complex decision-making tasks, with applications in robotics.</p>
-              <div>
-                <a href="https://github.com/hansjio/rl-simulator">
-                  <img src="https://img.shields.io/badge/View%20Project-ff0000?style=flat-square" alt="View Project"/>
-                </a>
-                <img src="https://img.shields.io/badge/reinforcement--learning-black?style=flat-square" alt="reinforcement-learning"/>
-                <img src="https://img.shields.io/badge/simulation-black?style=flat-square" alt="simulation"/>
-                <img src="https://img.shields.io/badge/decision--making-black?style=flat-square" alt="decision-making"/>
-                <img src="https://img.shields.io/badge/autonomous--systems-black?style=flat-square" alt="autonomous-systems"/>
-                <img src="https://img.shields.io/badge/pytorch-black?style=flat-square" alt="pytorch"/>
-              </div>
-            </div>
-          </div>
-        </td>
-      </tr>
-    </table>
-    <a href="https://github.com/hansjio?tab=repositories">
-      <img src="https://img.shields.io/badge/View%20All%20Projects-ff0000?style=for-the-badge" alt="View All Projects"/>
-    </a>
-  </div>
+  <summary><h2>🚀 // PROJECTS</h2></summary>
+  <ul>
+    <li><strong>Lupon Tigapamayapa (Jan 2025 – May 2025)</strong><br>
+      A full-stack case-logging system for barangay civil and criminal disputes built with HTML, CSS, JavaScript, PHP, and MySQL. Includes user activity logging and data visualizations.
+    </li>
+    <li><strong>Minimization Solver (Mar 2025 – May 2025)</strong><br>
+      A web-based Simplex Method solver for linear programming minimization problems. Handles tableau generation, pivoting, and the Two-Phase Method in vanilla JavaScript.
+    </li>
+  </ul>
 </details>
 
 <br>
