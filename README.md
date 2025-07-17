@@ -10,11 +10,15 @@
   </div>
 
   <p align="center">
-    <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=ff0000" alt="Twitter"></a>
-    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff0000" alt="LinkedIn"></a>
-    <a href="https://kaggle.com/yourprofile"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=ff0000" alt="Kaggle"></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" alt="Email"></a>
-    <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=ff0000" alt="Website"></a>
+    <a href="https://linkedin.com/in/hansjioarca">
+      <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff0000" alt="LinkedIn" />
+    </a>
+    <a href="https://kaggle.com/hansjioarca">
+      <img src="https://img.shields.io/badge/KAGGLE-000000?style=for-the-badge&logo=kaggle&logoColor=ff0000" alt="Kaggle" />
+    </a>
+    <a href="mailto:hansj.arca@gmail.com">
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" alt="Email" />
+    </a>
   </p>
 </div>
 
@@ -261,148 +265,17 @@
 
 <br>
 
-<!-- Experience Timeline Section -->
-<details>
-  <summary><h2>💼 // PROFESSIONAL EXPERIENCE</h2></summary>
-  <div align="center">
-    <table border="0" align="center">
-      <tr>
-        <td width="20%" align="right" valign="top">
-          <h3>2022 - Present</h3>
-          <p>3+ years</p>
-        </td>
-        <td width="5%" align="center" valign="top">
-          <div style="height:100%; width:2px; background-color:#ff0000;"></div>
-        </td>
-        <td width="75%" align="left" valign="top">
-          <h3>Senior AI Research Scientist</h3>
-          <p><strong>Tech Innovations Inc.</strong></p>
-          <ul>
-            <li>Lead research in transformer architectures for time series forecasting</li>
-            <li>Developed novel attention mechanisms for temporal data</li>
-            <li>Published 3 papers in top-tier ML conferences</li>
-            <li>Mentored junior researchers and interns</li>
-          </ul>
-          <p><em>Technologies: PyTorch, TensorFlow, JAX, AWS, MLflow</em></p>
-        </td>
-      </tr>
-      <tr>
-        <td width="20%" align="right" valign="top">
-          <h3>2020 - 2022</h3>
-          <p>2 years</p>
-        </td>
-        <td width="5%" align="center" valign="top">
-          <div style="height:100%; width:2px; background-color:#ff0000;"></div>
-        </td>
-        <td width="75%" align="left" valign="top">
-          <h3>Machine Learning Engineer</h3>
-          <p><strong>AI Solutions Ltd.</strong></p>
-          <ul>
-            <li>Designed and implemented computer vision systems for manufacturing</li>
-            <li>Reduced defect rates by 37% through anomaly detection</li>
-            <li>Built end-to-end MLOps pipelines for model deployment</li>
-            <li>Collaborated with cross-functional teams to integrate AI solutions</li>
-          </ul>
-          <p><em>Technologies: PyTorch, OpenCV, Docker, Kubernetes, Azure</em></p>
-        </td>
-      </tr>
-      <tr>
-        <td width="20%" align="right" valign="top">
-          <h3>2018 - 2020</h3>
-          <p>2 years</p>
-        </td>
-        <td width="5%" align="center" valign="top">
-          <div style="height:100%; width:2px; background-color:#ff0000;"></div>
-        </td>
-        <td width="75%" align="left" valign="top">
-          <h3>Data Scientist</h3>
-          <p><strong>Data Insights Corp.</strong></p>
-          <ul>
-            <li>Developed NLP models for text classification and sentiment analysis</li>
-            <li>Created knowledge graph systems for scientific literature</li>
-            <li>Implemented data pipelines for processing large-scale datasets</li>
-            <li>Presented findings to stakeholders and executive teams</li>
-          </ul>
-          <p><em>Technologies: Python, Scikit-learn, NLTK, SpaCy, Neo4j, SQL</em></p>
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-
-<br>
-
-<!-- Certifications Section -->
-<details>
-  <summary><h2>🏆 // CERTIFICATIONS & EDUCATION</h2></summary>
-  <div align="center">
-    <table border="0" align="center">
-      <tr>
-        <td width="33%" align="center">
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-          <h3>TensorFlow Developer</h3>
-          <p>Google</p>
-          <p>2022</p>
-        </td>
-        <td width="33%" align="center">
-          <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-          <h3>AWS Machine Learning Specialty</h3>
-          <p>Amazon Web Services</p>
-          <p>2021</p>
-        </td>
-        <td width="33%" align="center">
-          <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft">
-          <h3>Microsoft AI Fundamentals</h3>
-          <p>Microsoft</p>
-          <p>2021</p>
-        </td>
-      </tr>
-      <tr>
-        <td width="33%" align="center">
-          <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera">
-          <h3>Deep Learning Specialization</h3>
-          <p>deeplearning.ai</p>
-          <p>2020</p>
-        </td>
-        <td width="33%" align="center">
-          <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-          <h3>Kaggle Competition Expert</h3>
-          <p>Kaggle</p>
-          <p>2019</p>
-        </td>
-        <td width="33%" align="center">
-          <img src="https://img.shields.io/badge/University-FF0000?style=for-the-badge&logo=academia&logoColor=white" alt="University">
-          <h3>MSc in Data Science</h3>
-          <p>University of Technology</p>
-          <p>2018</p>
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-
-<br>
-
 <!-- Connect Section -->
 <details open>
   <summary><h2>🔗 // CONNECT WITH ME</h2></summary>
   <div align="center">
-    <a href="https://twitter.com/yourhandle">
-      <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=ff0000" alt="Twitter" />
-    </a>
-    <a href="https://linkedin.com/in/yourprofile">
+    <a href="https://linkedin.com/in/hansjioarca">
       <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff0000" alt="LinkedIn" />
     </a>
-    <a href="https://kaggle.com/yourprofile">
+    <a href="https://kaggle.com/hansjioarca">
       <img src="https://img.shields.io/badge/KAGGLE-000000?style=for-the-badge&logo=kaggle&logoColor=ff0000" alt="Kaggle" />
     </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Fiverr-000000?style=for-the-badge&logo=fiverr&logoColor=ff0000" alt="Fiverr" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=ff0000" alt="Upwork" />
-    </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:hansj.arca@gmail.com">
       <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" alt="Email" />
     </a>
   </div>
