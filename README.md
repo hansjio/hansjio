@@ -49,16 +49,70 @@
 <!-- Current Work Section -->
 <details open>
   <summary><h2>💼 // EXPERIENCE</h2></summary>
-  <ul>
-    <li><strong>Treasurer</strong> – Adamson Computer Science Society (Aug 2024 – May 2025)<br>
-      • Managed budgets, tracked income/expenses, and automated financial tracking using spreadsheets.<br>
-      • Forecasted event costs and merchandise revenue to optimize budgets.
-    </li>
-    <li><strong>Junior Officer</strong> – Adamson Computer Science Society (Aug 2023 – May 2025)<br>
-      • Assisted executive officers and helped manage events and internal communications.<br>
-      • Acted as liaison between students and the organization.
-    </li>
-  </ul>
+  <div align="center">
+    <table border="0" align="center">
+      <tr>
+        <td width="20%" align="right" valign="top">
+          <h3>2022 - Present</h3>
+          <p>3+ years</p>
+        </td>
+        <td width="5%" align="center" valign="top">
+          <div style="height:100%; width:2px; background-color:#ff0000;"></div>
+        </td>
+        <td width="75%" align="left" valign="top">
+          <h3>Senior AI Research Scientist</h3>
+          <p><strong>Tech Innovations Inc.</strong></p>
+          <ul>
+            <li>Lead research in transformer architectures for time series forecasting</li>
+            <li>Developed novel attention mechanisms for temporal data</li>
+            <li>Published 3 papers in top-tier ML conferences</li>
+            <li>Mentored junior researchers and interns</li>
+          </ul>
+          <p><em>Technologies: PyTorch, TensorFlow, JAX, AWS, MLflow</em></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="20%" align="right" valign="top">
+          <h3>2020 - 2022</h3>
+          <p>2 years</p>
+        </td>
+        <td width="5%" align="center" valign="top">
+          <div style="height:100%; width:2px; background-color:#ff0000;"></div>
+        </td>
+        <td width="75%" align="left" valign="top">
+          <h3>Machine Learning Engineer</h3>
+          <p><strong>AI Solutions Ltd.</strong></p>
+          <ul>
+            <li>Designed and implemented computer vision systems for manufacturing</li>
+            <li>Reduced defect rates by 37% through anomaly detection</li>
+            <li>Built end-to-end MLOps pipelines for model deployment</li>
+            <li>Collaborated with cross-functional teams to integrate AI solutions</li>
+          </ul>
+          <p><em>Technologies: PyTorch, OpenCV, Docker, Kubernetes, Azure</em></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="20%" align="right" valign="top">
+          <h3>2018 - 2020</h3>
+          <p>2 years</p>
+        </td>
+        <td width="5%" align="center" valign="top">
+          <div style="height:100%; width:2px; background-color:#ff0000;"></div>
+        </td>
+        <td width="75%" align="left" valign="top">
+          <h3>Data Scientist</h3>
+          <p><strong>Data Insights Corp.</strong></p>
+          <ul>
+            <li>Developed NLP models for text classification and sentiment analysis</li>
+            <li>Created knowledge graph systems for scientific literature</li>
+            <li>Implemented data pipelines for processing large-scale datasets</li>
+            <li>Presented findings to stakeholders and executive teams</li>
+          </ul>
+          <p><em>Technologies: Python, Scikit-learn, NLTK, SpaCy, Neo4j, SQL</em></p>
+        </td>
+      </tr>
+    </table>
+  </div>
 </details>
 
 <br>
@@ -203,100 +257,6 @@
       A web-based Simplex Method solver for linear programming minimization problems. Handles tableau generation, pivoting, and the Two-Phase Method in vanilla JavaScript.
     </li>
   </ul>
-</details>
-
-<br>
-
-<!-- Technological Interests Section -->
-<details open>
-  <summary><h2>🔬 // TECHNOLOGICAL INTERESTS</h2></summary>
-  <div align="center">
-    <table border="0" align="center">
-      <tr>
-        <td width="33%" align="center">
-          <img src="https://raw.githubusercontent.com/hansjio/hansjio/main/assets/multimodal.png" width="80px" height="80px">
-          <h3>Multimodal Learning</h3>
-          <p>Integrating vision, language, and structured data for comprehensive AI systems that can understand and reason across different types of information.</p>
-        </td>
-        <td width="33%" align="center">
-          <img src="https://raw.githubusercontent.com/hansjio/hansjio/main/assets/xai.png" width="80px" height="80px">
-          <h3>Explainable AI</h3>
-          <p>Developing interpretable models that provide insights into their decision-making process, making AI more transparent and trustworthy.</p>
-        </td>
-        <td width="33%" align="center">
-          <img src="https://raw.githubusercontent.com/hansjio/hansjio/main/assets/causal.png" width="80px" height="80px">
-          <h3>Causal Inference</h3>
-          <p>Moving beyond correlation to understand causal relationships in complex systems, enabling more robust predictions and interventions.</p>
-        </td>
-      </tr>
-      <tr>
-        <td width="33%" align="center">
-          <img src="https://raw.githubusercontent.com/hansjio/hansjio/main/assets/few-shot.png" width="80px" height="80px">
-          <h3>Few-Shot Learning</h3>
-          <p>Building models that can generalize from limited examples, reducing the need for massive labeled datasets and making AI more accessible.</p>
-        </td>
-        <td width="33%" align="center">
-          <img src="https://raw.githubusercontent.com/hansjio/hansjio/main/assets/ethical-ai.png" width="80px" height="80px">
-          <h3>Ethical AI</h3>
-          <p>Ensuring fairness, accountability, and transparency in machine learning systems to build AI that benefits everyone and minimizes harm.</p>
-        </td>
-        <td width="33%" align="center">
-          <img src="https://raw.githubusercontent.com/hansjio/hansjio/main/assets/rl.png" width="80px" height="80px">
-          <h3>Reinforcement Learning</h3>
-          <p>Advancing decision-making algorithms that learn through interaction with environments, with applications in robotics, gaming, and optimization.</p>
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-
-<br>
-
-<!-- Publications & Talks Section -->
-<details>
-  <summary><h2>📚 // PUBLICATIONS & TALKS</h2></summary>
-  <table border="0" align="center">
-    <tr>
-      <td width="20%" align="center">
-        <h3>2023</h3>
-      </td>
-      <td width="80%">
-        <h3>Transformer-Based Architectures for Time Series Forecasting: A Comparative Analysis</h3>
-        <p>International Conference on Machine Learning (ICML)</p>
-        <p><a href="#">[Paper]</a> <a href="#">[Code]</a> <a href="#">[Slides]</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="20%" align="center">
-        <h3>2022</h3>
-      </td>
-      <td width="80%">
-        <h3>Knowledge Graph Embeddings for Scientific Literature Analysis</h3>
-        <p>Conference on Neural Information Processing Systems (NeurIPS)</p>
-        <p><a href="#">[Paper]</a> <a href="#">[Code]</a> <a href="#">[Slides]</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="20%" align="center">
-        <h3>2022</h3>
-      </td>
-      <td width="80%">
-        <h3>Explainable Computer Vision for Manufacturing Quality Control</h3>
-        <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</p>
-        <p><a href="#">[Paper]</a> <a href="#">[Code]</a> <a href="#">[Slides]</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="20%" align="center">
-        <h3>2021</h3>
-      </td>
-      <td width="80%">
-        <h3>Reinforcement Learning for Robotic Control: A Survey and Benchmark</h3>
-        <p>Robotics: Science and Systems (RSS)</p>
-        <p><a href="#">[Paper]</a> <a href="#">[Code]</a> <a href="#">[Slides]</a></p>
-      </td>
-    </tr>
-  </table>
 </details>
 
 <br>
