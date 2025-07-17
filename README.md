@@ -51,72 +51,49 @@
 <br>
 
 <!-- Current Work Section -->
-<details open>
-  <summary><h2>💼 // EXPERIENCE</h2></summary>
-  <div align="center">
-    <table border="0" align="center">
-      <tr>
-        <td width="20%" align="right" valign="top">
-          <h3>2022 - Present</h3>
-          <p>3+ years</p>
-        </td>
-        <td width="5%" align="center" valign="top">
-          <div style="height:100%; width:2px; background-color:#ff0000;"></div>
-        </td>
-        <td width="75%" align="left" valign="top">
-          <h3>Senior AI Research Scientist</h3>
-          <p><strong>Tech Innovations Inc.</strong></p>
-          <ul>
-            <li>Lead research in transformer architectures for time series forecasting</li>
-            <li>Developed novel attention mechanisms for temporal data</li>
-            <li>Published 3 papers in top-tier ML conferences</li>
-            <li>Mentored junior researchers and interns</li>
-          </ul>
-          <p><em>Technologies: PyTorch, TensorFlow, JAX, AWS, MLflow</em></p>
-        </td>
-      </tr>
-      <tr>
-        <td width="20%" align="right" valign="top">
-          <h3>2020 - 2022</h3>
-          <p>2 years</p>
-        </td>
-        <td width="5%" align="center" valign="top">
-          <div style="height:100%; width:2px; background-color:#ff0000;"></div>
-        </td>
-        <td width="75%" align="left" valign="top">
-          <h3>Machine Learning Engineer</h3>
-          <p><strong>AI Solutions Ltd.</strong></p>
-          <ul>
-            <li>Designed and implemented computer vision systems for manufacturing</li>
-            <li>Reduced defect rates by 37% through anomaly detection</li>
-            <li>Built end-to-end MLOps pipelines for model deployment</li>
-            <li>Collaborated with cross-functional teams to integrate AI solutions</li>
-          </ul>
-          <p><em>Technologies: PyTorch, OpenCV, Docker, Kubernetes, Azure</em></p>
-        </td>
-      </tr>
-      <tr>
-        <td width="20%" align="right" valign="top">
-          <h3>2018 - 2020</h3>
-          <p>2 years</p>
-        </td>
-        <td width="5%" align="center" valign="top">
-          <div style="height:100%; width:2px; background-color:#ff0000;"></div>
-        </td>
-        <td width="75%" align="left" valign="top">
-          <h3>Data Scientist</h3>
-          <p><strong>Data Insights Corp.</strong></p>
-          <ul>
-            <li>Developed NLP models for text classification and sentiment analysis</li>
-            <li>Created knowledge graph systems for scientific literature</li>
-            <li>Implemented data pipelines for processing large-scale datasets</li>
-            <li>Presented findings to stakeholders and executive teams</li>
-          </ul>
-          <p><em>Technologies: Python, Scikit-learn, NLTK, SpaCy, Neo4j, SQL</em></p>
-        </td>
-      </tr>
-    </table>
-  </div>
+<summary><h2>💼 // EXPERIENCE</h2></summary>
+<div align="center">
+  <table border="0" align="center">
+    <tr>
+      <td width="20%" align="right" valign="top">
+        <h3>Aug 2024 – May 2025</h3>
+        <p>9 months</p>
+      </td>
+      <td width="5%" align="center" valign="top">
+        <div style="height:100%; width:2px; background-color:#ff0000;"></div>
+      </td>
+      <td width="75%" align="left" valign="top">
+        <h3>Treasurer</h3>
+        <p><strong>Adamson Computer Science Society</strong> – Adamson University</p>
+        <ul>
+          <li>Managed the organization’s academic year budget, including tracking income, expenses, and reimbursements</li>
+          <li>Used Excel and Google Sheets to automate financial tracking and improve accuracy</li>
+          <li>Analyzed past financial data to forecast event costs and optimize budget allocations</li>
+        </ul>
+        <p><em>Tools: Google Sheets, Excel</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="20%" align="right" valign="top">
+        <h3>Aug 2023 – May 2025</h3>
+        <p>1 year 9 months</p>
+      </td>
+      <td width="5%" align="center" valign="top">
+        <div style="height:100%; width:2px; background-color:#ff0000;"></div>
+      </td>
+      <td width="75%" align="left" valign="top">
+        <h3>Junior Officer</h3>
+        <p><strong>Adamson Computer Science Society</strong> – Adamson University</p>
+        <ul>
+          <li>Assisted executive officers in organizing student activities and coordinating operations</li>
+          <li>Acted as liaison between officers and students for announcements, updates, and feedback</li>
+          <li>Shadowed senior officers to learn leadership and event management practices</li>
+        </ul>
+        <p><em>Focus: Communication, Event Planning, Organizational Support</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
 </details>
 
 <br>
@@ -250,17 +227,30 @@
   
 <br>
 
-<!-- Featured Projects Section -->
 <details open>
   <summary><h2>🚀 // PROJECTS</h2></summary>
-  <ul>
-    <li><strong>Lupon Tigapamayapa (Jan 2025 – May 2025)</strong><br>
-      A full-stack case-logging system for barangay civil and criminal disputes built with HTML, CSS, JavaScript, PHP, and MySQL. Includes user activity logging and data visualizations.
-    </li>
-    <li><strong>Minimization Solver (Mar 2025 – May 2025)</strong><br>
-      A web-based Simplex Method solver for linear programming minimization problems. Handles tableau generation, pivoting, and the Two-Phase Method in vanilla JavaScript.
-    </li>
-  </ul>
+  <div align="center">
+    <table>
+      <tr>
+        <th align="left">📌 Project</th>
+        <th align="left">🧠 Description</th>
+        <th align="left">🛠️ Tech Stack</th>
+        <th align="left">📅 Duration</th>
+      </tr>
+      <tr>
+        <td><strong>Lupon Tigapamayapa</strong></td>
+        <td>A full-stack case-logging system for barangay civil and criminal disputes. Includes user activity logging and statistical visualizations.</td>
+        <td>HTML, CSS, JavaScript, PHP, MySQL</td>
+        <td>Jan 2025 – May 2025</td>
+      </tr>
+      <tr>
+        <td><strong>Minimization Solver</strong></td>
+        <td>A web-based Simplex Method calculator for solving linear programming minimization problems using JavaScript logic from scratch.</td>
+        <td>HTML, CSS, JavaScript</td>
+        <td>Mar 2025 – May 2025</td>
+      </tr>
+    </table>
+  </div>
 </details>
 
 <br>
