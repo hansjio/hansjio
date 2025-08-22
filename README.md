@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=ff0000&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DATA%20SCIENTIST%20|%20AI%20ENGINEER%20|%20ML%20SPECIALIST&descAlignY=60&descSize=20">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=ff0000&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DATA%20SCIENTIST%20|%20AI%20ENGINEER%20|%20ML%20SPECIALIST&descAlignY=60&descSize=20">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=ff0000&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DATA%20SCIENTIST%20|%20AI%20ENGINEER%20|%20ML%20SPECIALIST&descAlignY=60&descSize=20" alt="Header" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=ff0000&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=ASPIRING%20DATA%20SCIENTIST%20|%20AI%20ENGINEER%20|%20ML%20SPECIALIST&descAlignY=60&descSize=20">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=ff0000&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=ASPIRING%20DATA%20SCIENTIST%20|%20AI%20ENGINEER%20|%20ML%20SPECIALIST&descAlignY=60&descSize=20">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=ff0000&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=ASPIRING%20DATA%20SCIENTIST%20|%20AI%20ENGINEER%20|%20ML%20SPECIALIST&descAlignY=60&descSize=20" alt="Header" width="100%">
   </picture>
 
   <div align="center">
