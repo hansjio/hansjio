@@ -26,9 +26,6 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=hansjio&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=0D1117&hide_border=true&count_private=true" alt="GitHub Stats" width="100%">
-      </td>
-      <td width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansjio&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="GitHub Streak" width="100%">
       </td>
     </tr>
