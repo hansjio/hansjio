@@ -26,12 +26,12 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiobofa&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="GitHub Streak" width="100%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansjio&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="GitHub Streak" width="100%">
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiobofa&bg_color=0D1117&color=ffffff&line=ff0000&point=ffffff&area=true&area_color=ff0000&hide_border=true" width="100%" alt="Contribution Graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hansjio&bg_color=0D1117&color=ffffff&line=ff0000&point=ffffff&area=true&area_color=ff0000&hide_border=true" width="100%" alt="Contribution Graph">
       </td>
     </tr>
   </table>
