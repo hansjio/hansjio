@@ -16,18 +16,11 @@
   </div>
 
   <p align="center">
-    <a href="https://hansjio.github.io/">
+    <a href="https://hansjioarca.vercel.app/">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-111009?style=for-the-badge&logo=googlechrome&logoColor=dca63a">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PORTFOLIO-efe8d4?style=for-the-badge&logo=googlechrome&logoColor=7a5820">
         <img src="https://img.shields.io/badge/PORTFOLIO-111009?style=for-the-badge&logo=googlechrome&logoColor=dca63a" alt="Portfolio">
-      </picture>
-    </a>
-    <a href="https://hansjio.github.io/assets/arca-resume.pdf" target="_blank">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RESUME%20PDF-111009?style=for-the-badge&logo=adobeacrobatreader&logoColor=dca63a">
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/RESUME%20PDF-efe8d4?style=for-the-badge&logo=adobeacrobatreader&logoColor=7a5820">
-        <img src="https://img.shields.io/badge/RESUME%20PDF-111009?style=for-the-badge&logo=adobeacrobatreader&logoColor=dca63a" alt="Resume PDF">
       </picture>
     </a>
     <a href="https://linkedin.com/in/hansjioarca">
