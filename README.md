@@ -1,45 +1,80 @@
 <div align="center">
+  <!-- Header Banner: Adaptive Dark / Light -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=dca63a&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DATA%20SCIENTIST%20|%20SOFTWARE%20ENGINEER%20|%20NLP%20RESEARCHER&descAlignY=60&descSize=20">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=dca63a&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DATA%20SCIENTIST%20|%20SOFTWARE%20ENGINEER%20|%20NLP%20RESEARCHER&descAlignY=60&descSize=20">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=dca63a&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DATA%20SCIENTIST%20|%20SOFTWARE%20ENGINEER%20|%20NLP%20RESEARCHER&descAlignY=60&descSize=20" alt="Header" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=0D1117&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DATA%20SCIENTIST%20|%20SOFTWARE%20ENGINEER%20|%20NLP%20RESEARCHER&descAlignY=60&descSize=20">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=efe8d4&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=1c1710&animation=twinkling&fontAlignY=35&desc=DATA%20SCIENTIST%20|%20SOFTWARE%20ENGINEER%20|%20NLP%20RESEARCHER&descAlignY=60&descSize=20">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0D1117&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DATA%20SCIENTIST%20|%20SOFTWARE%20ENGINEER%20|%20NLP%20RESEARCHER&descAlignY=60&descSize=20" alt="Header" width="100%">
   </picture>
 
+  <!-- Typing SVG: Adaptive Dark / Light -->
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=DCA63A&center=true&vCenter=true&random=false&width=680&lines=Building+production-grade+backend+systems;Benchmarking+explainable+NLP+transformers;Optimizing+databases+under+15ms+latency;Shipping+data-driven+solutions+with+measurable+impact" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=DCA63A&center=true&vCenter=true&random=false&width=680&lines=Building+production-grade+backend+systems;Benchmarking+explainable+NLP+transformers;Optimizing+databases+under+15ms+latency;Shipping+data-driven+solutions+with+measurable+impact">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=7A5820&center=true&vCenter=true&random=false&width=680&lines=Building+production-grade+backend+systems;Benchmarking+explainable+NLP+transformers;Optimizing+databases+under+15ms+latency;Shipping+data-driven+solutions+with+measurable+impact">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=DCA63A&center=true&vCenter=true&random=false&width=680&lines=Building+production-grade+backend+systems;Benchmarking+explainable+NLP+transformers;Optimizing+databases+under+15ms+latency;Shipping+data-driven+solutions+with+measurable+impact" alt="Typing SVG">
+    </picture>
   </div>
 
   <p align="center">
     <a href="https://hansjio.github.io/">
-      <img src="https://img.shields.io/badge/PORTFOLIO-111009?style=for-the-badge&logo=googlechrome&logoColor=dca63a" alt="Portfolio" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-111009?style=for-the-badge&logo=googlechrome&logoColor=dca63a">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PORTFOLIO-efe8d4?style=for-the-badge&logo=googlechrome&logoColor=7a5820">
+        <img src="https://img.shields.io/badge/PORTFOLIO-111009?style=for-the-badge&logo=googlechrome&logoColor=dca63a" alt="Portfolio">
+      </picture>
     </a>
     <a href="https://hansjio.github.io/assets/arca-resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/RESUME%20PDF-111009?style=for-the-badge&logo=adobeacrobatreader&logoColor=dca63a" alt="Resume PDF" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RESUME%20PDF-111009?style=for-the-badge&logo=adobeacrobatreader&logoColor=dca63a">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/RESUME%20PDF-efe8d4?style=for-the-badge&logo=adobeacrobatreader&logoColor=7a5820">
+        <img src="https://img.shields.io/badge/RESUME%20PDF-111009?style=for-the-badge&logo=adobeacrobatreader&logoColor=dca63a" alt="Resume PDF">
+      </picture>
     </a>
     <a href="https://linkedin.com/in/hansjioarca">
-      <img src="https://img.shields.io/badge/LINKEDIN-111009?style=for-the-badge&logo=linkedin&logoColor=dca63a" alt="LinkedIn" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-111009?style=for-the-badge&logo=linkedin&logoColor=dca63a">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LINKEDIN-efe8d4?style=for-the-badge&logo=linkedin&logoColor=7a5820">
+        <img src="https://img.shields.io/badge/LINKEDIN-111009?style=for-the-badge&logo=linkedin&logoColor=dca63a" alt="LinkedIn">
+      </picture>
     </a>
     <a href="https://kaggle.com/hansjioarca">
-      <img src="https://img.shields.io/badge/KAGGLE-111009?style=for-the-badge&logo=kaggle&logoColor=dca63a" alt="Kaggle" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/KAGGLE-111009?style=for-the-badge&logo=kaggle&logoColor=dca63a">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/KAGGLE-efe8d4?style=for-the-badge&logo=kaggle&logoColor=7a5820">
+        <img src="https://img.shields.io/badge/KAGGLE-111009?style=for-the-badge&logo=kaggle&logoColor=dca63a" alt="Kaggle">
+      </picture>
     </a>
     <a href="mailto:hansj.arca@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-111009?style=for-the-badge&logo=gmail&logoColor=dca63a" alt="Email" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-111009?style=for-the-badge&logo=gmail&logoColor=dca63a">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/EMAIL-efe8d4?style=for-the-badge&logo=gmail&logoColor=7a5820">
+        <img src="https://img.shields.io/badge/EMAIL-111009?style=for-the-badge&logo=gmail&logoColor=dca63a" alt="Email">
+      </picture>
     </a>
   </p>
 </div>
 
 <br>
 
+<!-- GitHub Activity Stats: Adaptive Dark / Light -->
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansjio&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=dca63a&fire=dca63a&currStreakLabel=dca63a" alt="GitHub Streak" width="100%">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hansjio&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=dca63a&fire=dca63a&currStreakLabel=dca63a">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hansjio&theme=default&hide_border=true&stroke=0000&background=efe8d4&ring=7a5820&fire=7a5820&currStreakLabel=7a5820">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansjio&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=dca63a&fire=dca63a&currStreakLabel=dca63a" alt="GitHub Streak" width="100%">
+        </picture>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hansjio&bg_color=0D1117&color=ffffff&line=dca63a&point=ffffff&area=true&area_color=dca63a&hide_border=true" width="100%" alt="Contribution Graph">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hansjio&bg_color=0D1117&color=ffffff&line=dca63a&point=ffffff&area=true&area_color=dca63a&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hansjio&bg_color=efe8d4&color=1c1710&line=7a5820&point=1c1710&area=true&area_color=7a5820&hide_border=true">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=hansjio&bg_color=0D1117&color=ffffff&line=dca63a&point=ffffff&area=true&area_color=dca63a&hide_border=true" width="100%" alt="Contribution Graph">
+        </picture>
       </td>
     </tr>
   </table>
@@ -258,19 +293,39 @@
   <summary><h2>🔗 // CONNECT WITH ME</h2></summary>
   <div align="center">
     <a href="https://hansjio.github.io/">
-      <img src="https://img.shields.io/badge/PORTFOLIO-111009?style=for-the-badge&logo=googlechrome&logoColor=dca63a" alt="Portfolio" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-111009?style=for-the-badge&logo=googlechrome&logoColor=dca63a">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PORTFOLIO-efe8d4?style=for-the-badge&logo=googlechrome&logoColor=7a5820">
+        <img src="https://img.shields.io/badge/PORTFOLIO-111009?style=for-the-badge&logo=googlechrome&logoColor=dca63a" alt="Portfolio">
+      </picture>
     </a>
     <a href="https://hansjio.github.io/assets/arca-resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/RESUME%20PDF-111009?style=for-the-badge&logo=adobeacrobatreader&logoColor=dca63a" alt="Resume PDF" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RESUME%20PDF-111009?style=for-the-badge&logo=adobeacrobatreader&logoColor=dca63a">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/RESUME%20PDF-efe8d4?style=for-the-badge&logo=adobeacrobatreader&logoColor=7a5820">
+        <img src="https://img.shields.io/badge/RESUME%20PDF-111009?style=for-the-badge&logo=adobeacrobatreader&logoColor=dca63a" alt="Resume PDF">
+      </picture>
     </a>
     <a href="https://linkedin.com/in/hansjioarca">
-      <img src="https://img.shields.io/badge/LINKEDIN-111009?style=for-the-badge&logo=linkedin&logoColor=dca63a" alt="LinkedIn" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-111009?style=for-the-badge&logo=linkedin&logoColor=dca63a">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LINKEDIN-efe8d4?style=for-the-badge&logo=linkedin&logoColor=7a5820">
+        <img src="https://img.shields.io/badge/LINKEDIN-111009?style=for-the-badge&logo=linkedin&logoColor=dca63a" alt="LinkedIn">
+      </picture>
     </a>
     <a href="https://kaggle.com/hansjioarca">
-      <img src="https://img.shields.io/badge/KAGGLE-111009?style=for-the-badge&logo=kaggle&logoColor=dca63a" alt="Kaggle" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/KAGGLE-111009?style=for-the-badge&logo=kaggle&logoColor=dca63a">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/KAGGLE-efe8d4?style=for-the-badge&logo=kaggle&logoColor=7a5820">
+        <img src="https://img.shields.io/badge/KAGGLE-111009?style=for-the-badge&logo=kaggle&logoColor=dca63a" alt="Kaggle">
+      </picture>
     </a>
     <a href="mailto:hansj.arca@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-111009?style=for-the-badge&logo=gmail&logoColor=dca63a" alt="Email" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-111009?style=for-the-badge&logo=gmail&logoColor=dca63a">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/EMAIL-efe8d4?style=for-the-badge&logo=gmail&logoColor=7a5820">
+        <img src="https://img.shields.io/badge/EMAIL-111009?style=for-the-badge&logo=gmail&logoColor=dca63a" alt="Email">
+      </picture>
     </a>
   </div>
 </details>
@@ -280,5 +335,9 @@
 <div align="center">
   <h2>『 TURNING DATA INTO DECISIONS · SYSTEMS INTO IMPACT 』</h2>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dca63a&height=120&section=footer"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=efe8d4&height=120&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" alt="Footer Banner">
+  </picture>
 </div>
