@@ -1,37 +1,45 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=ff0000&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=ASPIRING%20DATA%20SCIENTIST%20|%20AI%20ENGINEER%20|%20ML%20SPECIALIST&descAlignY=60&descSize=20">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=ff0000&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=ASPIRING%20DATA%20SCIENTIST%20|%20AI%20ENGINEER%20|%20ML%20SPECIALIST&descAlignY=60&descSize=20">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=ff0000&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=ASPIRING%20DATA%20SCIENTIST%20|%20AI%20ENGINEER%20|%20ML%20SPECIALIST&descAlignY=60&descSize=20" alt="Header" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=dca63a&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DATA%20SCIENTIST%20|%20SOFTWARE%20ENGINEER%20|%20NLP%20RESEARCHER&descAlignY=60&descSize=20">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=dca63a&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DATA%20SCIENTIST%20|%20SOFTWARE%20ENGINEER%20|%20NLP%20RESEARCHER&descAlignY=60&descSize=20">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=dca63a&text=HANS%20JIO%20ARCA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DATA%20SCIENTIST%20|%20SOFTWARE%20ENGINEER%20|%20NLP%20RESEARCHER&descAlignY=60&descSize=20" alt="Header" width="100%">
   </picture>
 
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=Transforming+data+into+intelligence;Building+AI+that+matters;Turning+algorithms+into+impact;Solving+complex+problems+with+ML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=DCA63A&center=true&vCenter=true&random=false&width=680&lines=Building+production-grade+backend+systems;Benchmarking+explainable+NLP+transformers;Optimizing+databases+under+15ms+latency;Shipping+data-driven+solutions+with+measurable+impact" alt="Typing SVG" />
   </div>
 
   <p align="center">
+    <a href="https://hansjio.github.io/">
+      <img src="https://img.shields.io/badge/PORTFOLIO-111009?style=for-the-badge&logo=googlechrome&logoColor=dca63a" alt="Portfolio" />
+    </a>
+    <a href="https://hansjio.github.io/assets/arca-resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/RESUME%20PDF-111009?style=for-the-badge&logo=adobeacrobatreader&logoColor=dca63a" alt="Resume PDF" />
+    </a>
     <a href="https://linkedin.com/in/hansjioarca">
-      <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff0000" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LINKEDIN-111009?style=for-the-badge&logo=linkedin&logoColor=dca63a" alt="LinkedIn" />
     </a>
     <a href="https://kaggle.com/hansjioarca">
-      <img src="https://img.shields.io/badge/KAGGLE-000000?style=for-the-badge&logo=kaggle&logoColor=ff0000" alt="Kaggle" />
+      <img src="https://img.shields.io/badge/KAGGLE-111009?style=for-the-badge&logo=kaggle&logoColor=dca63a" alt="Kaggle" />
     </a>
     <a href="mailto:hansj.arca@gmail.com">
-      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" alt="Email" />
+      <img src="https://img.shields.io/badge/EMAIL-111009?style=for-the-badge&logo=gmail&logoColor=dca63a" alt="Email" />
     </a>
   </p>
 </div>
+
+<br>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansjio&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="GitHub Streak" width="100%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansjio&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=dca63a&fire=dca63a&currStreakLabel=dca63a" alt="GitHub Streak" width="100%">
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hansjio&bg_color=0D1117&color=ffffff&line=ff0000&point=ffffff&area=true&area_color=ff0000&hide_border=true" width="100%" alt="Contribution Graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hansjio&bg_color=0D1117&color=ffffff&line=dca63a&point=ffffff&area=true&area_color=dca63a&hide_border=true" width="100%" alt="Contribution Graph">
       </td>
     </tr>
   </table>
@@ -42,144 +50,150 @@
 <!-- About Me Section -->
 <details open>
   <summary><h2>👋 // ABOUT ME</h2></summary>
-  <p>Hi! I'm Hans Jio Arca — a Computer Science student at Adamson University majoring in Data Science. I’m passionate about developing data-driven applications and solving real-world problems using machine learning and web technologies. I'm currently building tools that make local governance and optimization more accessible through tech.</p>
+  <p>Computer Science student at <strong>Adamson University</strong> (BS CS Major in Data Science, <strong>1.07 GWA, Dean's Lister</strong>) specializing in data science, explainable NLP research, and backend database engineering.</p>
+  <p>I build production-grade full-stack systems—from multi-tenant retail ERP/POS platforms with sub-15ms query latencies to live deployed government records management tools—alongside benchmarking Taglish election misinformation transformers using SHAP & Integrated Gradients.</p>
 </details>
 
 <br>
 
-<!-- Current Work Section -->
-<summary><h2>💼 // EXPERIENCE</h2></summary>
-<div align="center">
-  <table border="0" align="center">
-    <tr>
-      <td width="20%" align="right" valign="top">
-        <h3>Aug 2024 – May 2025</h3>
-        <p>9 months</p>
-      </td>
-      <td width="5%" align="center" valign="top">
-        <div style="height:100%; width:2px; background-color:#ff0000;"></div>
-      </td>
-      <td width="75%" align="left" valign="top">
-        <h3>Treasurer</h3>
-        <p><strong>Adamson Computer Science Society</strong> – Adamson University</p>
-        <ul>
-          <li>Managed the organization’s academic year budget, including tracking income, expenses, and reimbursements</li>
-          <li>Used Excel and Google Sheets to automate financial tracking and improve accuracy</li>
-          <li>Analyzed past financial data to forecast event costs and optimize budget allocations</li>
-        </ul>
-        <p><em>Tools: Google Sheets, Excel</em></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="20%" align="right" valign="top">
-        <h3>Aug 2023 – May 2024</h3>
-        <p>9 months</p>
-      </td>
-      <td width="5%" align="center" valign="top">
-        <div style="height:100%; width:2px; background-color:#ff0000;"></div>
-      </td>
-      <td width="75%" align="left" valign="top">
-        <h3>Junior Officer</h3>
-        <p><strong>Adamson Computer Science Society</strong> – Adamson University</p>
-        <ul>
-          <li>Assisted executive officers in organizing student activities and coordinating operations</li>
-          <li>Acted as liaison between officers and students for announcements, updates, and feedback</li>
-          <li>Shadowed senior officers to learn leadership and event management practices</li>
-        </ul>
-        <p><em>Focus: Communication, Event Planning, Organizational Support</em></p>
-      </td>
-    </tr>
-  </table>
-</div>
-</details>
-
-<br>
-
-<!-- Expertise Section -->
+<!-- Experience Section -->
 <details open>
-  <summary><h2>🔧 // EXPERTISE & TECHNOLOGIES</h2></summary>
+  <summary><h2>💼 // PROFESSIONAL EXPERIENCE & LEADERSHIP</h2></summary>
+  <div align="center">
+    <table border="0" align="center">
+      <tr>
+        <td width="22%" align="right" valign="top">
+          <h3>May 2025 – Sep 2025</h3>
+          <p>Contract</p>
+        </td>
+        <td width="3%" align="center" valign="top">
+          <div style="height:100%; width:2px; background-color:#dca63a;"></div>
+        </td>
+        <td width="75%" align="left" valign="top">
+          <h3>Backend & Database Developer</h3>
+          <p><strong>i-Bizness Consultancy</strong> – Manila, PH (Remote)</p>
+          <ul>
+            <li>Engineered database schemas and REST APIs for a multi-tenant ERP & POS system across 4 retail branches with 100% real-time stock sync and &lt;15ms average query latency.</li>
+            <li>Designed automated costing triggers and dynamic aggregation queries powering a "Smart Recipe" engine and sales analytics.</li>
+          </ul>
+          <p><em>Stack: Node.js, Express, MySQL, REST API Architecture</em></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="22%" align="right" valign="top">
+          <h3>Jan 2025 – May 2025</h3>
+          <p>Service Learning</p>
+        </td>
+        <td width="3%" align="center" valign="top">
+          <div style="height:100%; width:2px; background-color:#dca63a;"></div>
+        </td>
+        <td width="75%" align="left" valign="top">
+          <h3>Web Systems Developer & Client Liaison</h3>
+          <p><strong>Barangay Lupon Tagapamayapa</strong> – Bacoor, Cavite</p>
+          <ul>
+            <li>Led a 6-person dev team building a full-stack case-logging system, replacing 100% of handwritten logbooks and cutting record retrieval from minutes to seconds; earned a 5/5 partner evaluation.</li>
+            <li>Implemented Role-Based Access Control (RBAC), encrypted backup/restore modules, and live analytics dashboards.</li>
+          </ul>
+          <p><em>Stack: PHP, MySQL, JavaScript, HTML/CSS, XAMPP</em></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="22%" align="right" valign="top">
+          <h3>Jul 2025 – Jun 2026</h3>
+          <p>1 Year</p>
+        </td>
+        <td width="3%" align="center" valign="top">
+          <div style="height:100%; width:2px; background-color:#dca63a;"></div>
+        </td>
+        <td width="75%" align="left" valign="top">
+          <h3>P.U.L.S.E. Head Lead</h3>
+          <p><strong>Adamson Computer Science Society (ACOMSS)</strong> – Adamson University</p>
+          <ul>
+            <li>Directed the academic umbrella division, spearheading 3 technical bootcamps (CodeRush Workshop) for 120+ active participants with 100% curriculum completion.</li>
+            <li>Designed learning pathways spanning Python fundamentals, algorithmic problem sets, web development, and Git/GitHub workflows.</li>
+          </ul>
+          <p><em>Focus: Technical Instruction, Curriculum Engineering, Academic Leadership</em></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="22%" align="right" valign="top">
+          <h3>Aug 2024 – May 2025</h3>
+          <p>1 Year</p>
+        </td>
+        <td width="3%" align="center" valign="top">
+          <div style="height:100%; width:2px; background-color:#dca63a;"></div>
+        </td>
+        <td width="75%" align="left" valign="top">
+          <h3>Organization Treasurer</h3>
+          <p><strong>Adamson Computer Science Society (ACOMSS)</strong> – Adamson University</p>
+          <ul>
+            <li>Managed budgets for 10+ student initiatives; digitized logistics tracking enabling the org to retain ~69% of allocated budget.</li>
+            <li>Grew alumni sponsorship funding by 46% via corporate outreach proposals; built automated Excel/Sheets trackers.</li>
+          </ul>
+          <p><em>Focus: Financial Modeling, Data Tracking, Corporate Sponsorship</em></p>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
+
+<br>
+
+<!-- Tech Stack Section -->
+<details open>
+  <summary><h2>🔧 // TECH STACK & TOOLS</h2></summary>
   
-  <!-- Programming & Frameworks -->
-  <h3 align="center">Programming & Frameworks</h3>
+  <!-- Languages & Frameworks -->
+  <h3 align="center">Languages & Frameworks</h3>
   <div align="center">
     <a href="https://www.python.org/" target="_blank">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     </a>
-    <a href="https://www.r-project.org/" target="_blank">
-      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+    <a href="https://www.php.net/" target="_blank">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     </a>
-    <a href="https://www.tensorflow.org/" target="_blank">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     </a>
-    <a href="https://pytorch.org/" target="_blank">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+    <a href="https://react.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
     </a>
-    <a href="https://jax.readthedocs.io/" target="_blank">
-      <img src="https://img.shields.io/badge/JAX-0A5F69?style=for-the-badge&logo=google&logoColor=white" alt="JAX">
+    <a href="https://nodejs.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
     </a>
-    <br>
-    <a href="https://huggingface.co/transformers/" target="_blank">
+    <a href="https://expressjs.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+    </a>
+  </div>
+  
+  <!-- Data Science & Machine Learning -->
+  <h3 align="center">Data Science & Machine Learning</h3>
+  <div align="center">
+    <a href="https://huggingface.co/" target="_blank">
       <img src="https://img.shields.io/badge/Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
     </a>
     <a href="https://scikit-learn.org/" target="_blank">
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
     </a>
+    <a href="https://shap.readthedocs.io/" target="_blank">
+      <img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=python&logoColor=dca63a" alt="SHAP">
+    </a>
     <a href="https://pandas.pydata.org/" target="_blank">
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
     </a>
-    <a href="https://numpy.org/" target="_blank">
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+    <a href="https://powerbi.microsoft.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
+    </a>
+    <a href="https://rapidminer.com/" target="_blank">
+      <img src="https://img.shields.io/badge/RapidMiner-FF5722?style=for-the-badge&logo=rapidminer&logoColor=white" alt="RapidMiner">
     </a>
   </div>
   
-  <!-- Big Data & Databases -->
-  <h3 align="center">Big Data & Databases</h3>
+  <!-- Databases & Cloud -->
+  <h3 align="center">Databases & Cloud Infrastructure</h3>
   <div align="center">
     <a href="https://www.mysql.com/" target="_blank">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank">
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-      <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL">
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    </a>
-    <br>
-    <a href="https://cloud.google.com/bigquery/" target="_blank">
-      <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery">
-    </a>
-    <a href="https://spark.apache.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark">
-    </a>
-    <a href="https://hadoop.apache.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop">
-    </a>
-    <a href="https://redis.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-    </a>
-  </div>
-  
-  <!-- MLOps & Deployment -->
-  <h3 align="center">MLOps & Deployment</h3>
-  <div align="center">
-    <a href="https://mlflow.org/" target="_blank">
-      <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
-    </a>
-    <a href="https://www.kubeflow.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubeflow">
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    </a>
-    <br>
-    <a href="https://kubernetes.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
     </a>
     <a href="https://aws.amazon.com/" target="_blank">
       <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
@@ -187,64 +201,51 @@
     <a href="https://azure.microsoft.com/" target="_blank">
       <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
     </a>
-    <a href="https://cloud.google.com/" target="_blank">
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+    <a href="https://vercel.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     </a>
   </div>
-  
-  <!-- Visualization & Analysis -->
-  <h3 align="center">Visualization & Analysis</h3>
-  <div align="center">
-    <a href="https://matplotlib.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
-    </a>
-    <a href="https://plotly.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
-    </a>
-    <a href="https://dash.plotly.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash">
-    </a>
-    <br>
-    <a href="https://www.tableau.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-    </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-      <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
-    </a>
-    <a href="https://d3js.org/" target="_blank">
-      <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js">
-    </a>
-  </div>
-  
+</details>
+
 <br>
 
+<!-- Featured Projects Section -->
 <details open>
-  <summary><h2>🚀 // PROJECTS</h2></summary>
+  <summary><h2>🚀 // FEATURED PROJECTS & CASE STUDIES</h2></summary>
   <div align="center">
-    <table>
+    <table width="100%">
       <tr>
         <th align="left">📌 Project</th>
-        <th align="left">🧠 Description</th>
+        <th align="left">🧠 Architecture & Key Metrics</th>
         <th align="left">🛠️ Tech Stack</th>
-        <th align="left">📅 Duration</th>
       </tr>
       <tr>
-        <td><strong>Lupon Tigapamayapa</strong></td>
-        <td>A full-stack case-logging system for barangay civil and criminal disputes. Includes user activity logging and statistical visualizations.</td>
-        <td>HTML, CSS, JavaScript, PHP, MySQL</td>
-        <td>Jan 2025 – May 2025</td>
+        <td><strong>TsekTxt NLP Thesis</strong></td>
+        <td>Benchmarked RoBERTa-Tagalog, mBERT, and XLM-RoBERTa on 24K+ election posts reaching <strong>89.4% F1-score</strong>. Extracted predictors via SHAP & Integrated Gradients.</td>
+        <td>Python, Transformers, SHAP, HuggingFace</td>
       </tr>
       <tr>
-        <td><strong>Minimization Solver</strong></td>
-        <td>A web-based Simplex Method calculator for solving linear programming minimization problems using JavaScript logic from scratch.</td>
-        <td>HTML, CSS, JavaScript</td>
-        <td>Mar 2025 – May 2025</td>
+        <td><strong>Lupong Tagapamayapa CCRMS</strong></td>
+        <td>Full-stack legal case records management system deployed at Brgy. Molino III Hall of Justice. Features RBAC, encrypted backups, audit logs, and analytics. Replaced 100% paper logbooks.</td>
+        <td>PHP, MySQL, JavaScript, HTML/CSS</td>
+      </tr>
+      <tr>
+        <td><strong>Carinderia POS</strong></td>
+        <td>Multi-branch POS (central kitchen + 3 retail locations) with sub-15ms query execution, real-time inventory transfer sync, automated recipe costing, and sales analytics.</td>
+        <td>React, Node.js, Express, MySQL, Chart.js</td>
+      </tr>
+      <tr>
+        <td><strong>DPWH Flood Control Audit</strong></td>
+        <td>Socioeconomic civic audit of 9,855 national flood control projects totaling <strong>₱545.6B contract cost</strong> analyzing spending equity across 2,409 contractors.</td>
+        <td>Power BI, Excel, Data Mining</td>
+      </tr>
+      <tr>
+        <td><strong>Household Economics Study</strong></td>
+        <td>Regional correlation study mapping household FIES socioeconomic factors against DepEd school participation across 26.2M enrollees.</td>
+        <td>RapidMiner, Power BI, Python, Excel</td>
       </tr>
     </table>
   </div>
@@ -256,22 +257,20 @@
 <details open>
   <summary><h2>🔗 // CONNECT WITH ME</h2></summary>
   <div align="center">
+    <a href="https://hansjio.github.io/">
+      <img src="https://img.shields.io/badge/PORTFOLIO-111009?style=for-the-badge&logo=googlechrome&logoColor=dca63a" alt="Portfolio" />
+    </a>
+    <a href="https://hansjio.github.io/assets/arca-resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/RESUME%20PDF-111009?style=for-the-badge&logo=adobeacrobatreader&logoColor=dca63a" alt="Resume PDF" />
+    </a>
     <a href="https://linkedin.com/in/hansjioarca">
-      <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ff0000" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LINKEDIN-111009?style=for-the-badge&logo=linkedin&logoColor=dca63a" alt="LinkedIn" />
     </a>
     <a href="https://kaggle.com/hansjioarca">
-      <img src="https://img.shields.io/badge/KAGGLE-000000?style=for-the-badge&logo=kaggle&logoColor=ff0000" alt="Kaggle" />
+      <img src="https://img.shields.io/badge/KAGGLE-111009?style=for-the-badge&logo=kaggle&logoColor=dca63a" alt="Kaggle" />
     </a>
     <a href="mailto:hansj.arca@gmail.com">
-      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" alt="Email" />
-    </a>
-  </div>
-  
-  <br>
-  
-  <div align="center">
-    <a href="https://github.com/hansjio/hansjio/issues/new?template=collaboration-request.md">
-      <img src="https://img.shields.io/badge/📝%20Leave%20a%20Message-ff0000?style=for-the-badge" alt="Leave a Message" />
+      <img src="https://img.shields.io/badge/EMAIL-111009?style=for-the-badge&logo=gmail&logoColor=dca63a" alt="Email" />
     </a>
   </div>
 </details>
@@ -279,7 +278,7 @@
 <br>
 
 <div align="center">
-  <h2>『 TURNING DATA INTO DECISIONS 』</h2>
+  <h2>『 TURNING DATA INTO DECISIONS · SYSTEMS INTO IMPACT 』</h2>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=dca63a&height=120&section=footer"/>
 </div>
